@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999670302380",
+    "project_id": "zen3-beeb2",
+    "storage_bucket": "zen3-beeb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999670302380:android:7add16e8c2ae0144df0109",
+        "android_client_info": {
+          "package_name": "com.example.zen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFy1f71l3r2e1D47Yox0MWDULVhjRnHD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
