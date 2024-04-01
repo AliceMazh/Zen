@@ -4,8 +4,7 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="?attr/actionBarSize"
-    android:background="@drawable/gradient">
+       android:background="@drawable/gradient">
 
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
@@ -13,6 +12,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:background="@drawable/bottom_nav_background"
+        android:scrollbars="vertical"
+        app:itemTextColor="#B668EF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toLeftOf="parent"
